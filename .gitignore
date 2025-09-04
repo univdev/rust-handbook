@@ -1,2 +1,12 @@
 # Build results
 **/dist
+
+# Cargo Target
+**/target
+
+# Cargo Lock
+Cargo.lock
+
+## DS Store
+.DS_Store
+**/.DS_Store
